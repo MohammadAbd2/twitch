@@ -1,0 +1,9 @@
+#container{
+  width:70%;
+  height:100%;
+  background-color:gray;
+}
+.title{
+  margin-left:40%;
+  font-size:20px;
+}
